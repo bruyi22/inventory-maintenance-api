@@ -1,2 +1,4 @@
-# inventory-maintenance-api
-RESTful API built with Flask and SQLAlchemy for managing inventory items and maintenance work orders, featuring JWT authentication and role-based access
+# Inventory & Maintenance API
+
+RESTful backend API built with **Python and Flask** to manage inventory items and maintenance work orders.  
+The system includes **JWT authentication**, role-based access, structured error handling, and scalable relational data models using **SQLAlchemy**.
